@@ -1,0 +1,1 @@
+"""MSAL schedule sync package."""
